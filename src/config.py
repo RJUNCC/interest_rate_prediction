@@ -9,3 +9,5 @@ FED_FUNDS_PATH    = EXCEL_DATA_PATH + "fed_funds_rate/"
 CSV_DATA_PATH     = "../data/csv/"
 
 PARQUET_PATH      = "../data/parquet/"
+
+MODEL_DATA_PATH   = "../data/model_data/parquet"
